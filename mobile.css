@@ -1,7 +1,16 @@
 
 @media (max-device-width: 600px){
   .📱✔️ {
-    display: initial;
+    display: block;
+  }
+  .📱✔️💪 {
+    display: flex;
+  }
+  .📱✔️inline {
+    display: inline;
+  }
+  .📱✔️grid {
+    display: grid;
   }
   .📱❌ {
     display: none;
