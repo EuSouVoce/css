@@ -1,0 +1,9 @@
+
+@media (max-device-width: 600px){
+  .📱✔️ {
+    display: initial;
+  }
+  .📱❌ {
+    display: none;
+  }
+}
