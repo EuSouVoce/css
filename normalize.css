@@ -16,6 +16,9 @@ nav,
 section {
     display: block
 }
+ul {
+    padding-inline-start: 0;
+}
 
 h1 {
     font-size: 2em;
